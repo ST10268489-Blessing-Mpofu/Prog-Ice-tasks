@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276200086839",
+    "project_id": "signuploginapp-59d81",
+    "storage_bucket": "signuploginapp-59d81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276200086839:android:781b2377430a715b078eb2",
+        "android_client_info": {
+          "package_name": "com.example.signupandlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4inTJWDWW97h6bHio0vrudgrK9F9YK2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276200086839:android:95ee78b5b1f1657b078eb2",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.vula_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4inTJWDWW97h6bHio0vrudgrK9F9YK2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

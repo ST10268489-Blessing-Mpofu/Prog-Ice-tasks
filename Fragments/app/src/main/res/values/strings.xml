@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Vula_Wallet</string>
+
+    <string name="error_first_name_required">First Name is required</string>
+    <string name="error_last_name_required">Last Name is required</string>
+    <string name="default_bio">Budget enthusiast who loves budgeting and penny pinching where I can.</string>
+    <string name="profile_creation_failed">Failed to save profile locally.</string>
+
+    <!-- Strings for Profile Fragment -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="profile_title">Profile</string>
+    <string name="edit_profile_dialog_title">Edit Your Profile</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_bio">Bio</string>
+    <string name="profile_update_success">Profile updated successfully.</string>
+    <string name="profile_update_failed">Failed to update profile.</string>
+    <string name="profile_fetch_failed">Could not load profile data.</string>
+
+    <string name="openingNavigationDrawer">Open Navigation Drawer</string>
+    <string name="closeNavigationDrawer">Close Navigation Drawer</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_too_short">Password must be at least 8 characters long</string>
+    <string name="error_password_needs_uppercase">Password must contain at least one uppercase letter</string>
+    <string name="error_password_needs_lowercase">Password must contain at least one lowercase letter</string>
+    <string name="error_password_needs_digit">Password must contain at least one digit</string>
+    <string name="error_password_needs_special">Password must contain at least one special character (@#$%^+=!)</string>
+    <string name="error_terms_required">Please accept the Terms &amp; Conditions to proceed.</string>
+    <string name="signup_success">Sign Up Successful.</string>
+    <string name="auth_failed">Authentication failed: %1$s</string> <!-- %1$s is for the error message -->
+    <string name="terms_dialog_title">Terms &amp; Conditions</string>
+    <string name="terms_dialog_accept">Accept</string>
+    <string name="terms_dialog_decline">Decline</string>
+    <string name="terms_content">
+        <![CDATA[
+        <b>VulaWallet Terms and Conditions</b><br/><br/>
+        <i>Last updated: [Date]</i><br/><br/>
+        Welcome to VulaWallet!<br/><br/>
+        These terms and conditions outline the rules and regulations for the use of Vula\'s Application, located at [Your App Store Link/Website].<br/><br/>
+        By accessing this app we assume you accept these terms and conditions. Do not continue to use VulaWallet if you do not agree to take all of the terms and conditions stated on this page.<br/><br/>
+        <b>1. License</b><br/>
+        Unless otherwise stated, Vula and/or its licensors own the intellectual property rights for all material on VulaWallet. All intellectual property rights are reserved. You may access this from VulaWallet for your own personal use subjected to restrictions set in these terms and conditions.<br/><br/>
+        You must not:<br/>
+        <ul>
+            <li>Republish material from VulaWallet</li>
+            <li>Sell, rent or sub-license material from VulaWallet</li>
+            <li>Reproduce, duplicate or copy material from VulaWallet</li>
+            <li>Redistribute content from VulaWallet</li>
+        </ul>
+        <br/>
+        <b>2. User Comments</b><br/>
+        Parts of this app offer an opportunity for users to post and exchange opinions and information. Vula does not filter, edit, publish or review Comments prior to their presence on the app. Comments do not reflect the views and opinions of Vula,its agents and/or affiliates. Comments reflect the views and opinions of the person who posts their views and opinions.<br/><br/>
+        <br/><br/>
+        <b>Contact Us</b><br/>
+        If you have any questions about these Terms, please contact us: 0000000000<br/><br/>
+        <b>By clicking \"Accept\", you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.</b>
+        ]]>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
